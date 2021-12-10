@@ -1,6 +1,6 @@
-# Citywide and Local Analysis 
+# Citywide and Local Neighborhood Analysis 
 
-## Local 
+## Local Neighborhood: Bay Ridge 
 
 #### Highlighted Map of Bay Ridge
 
@@ -10,3 +10,17 @@ This is a map of Bay Ridge. It is located next to the Verrazano Bridge and adjac
 family friendly neighborhood due to its low crime rate, plentiful amount of public parks, and public
 schools. Over the years, the demographics of the neighborhood changed signficantly as in earlier years it was predominantly white, specifically
 Italian, but over the years many Asian and Hispanic immigrants settled in the area which created a more diverse population.
+
+Brief Demographic Breakdown:
+
+11220 ZipCode Statistics:
+
+-Population: 93,170
+-Median Age: 34
+-Ethnicity: White 13.86% Hispanic: 41.33% Asian: 41.35% Black: 1.9%
+
+11209 ZipCode Statistics:
+
+-Population: 67,782
+-Median Age: 41
+-Ethnicity: White: 64.33% Hispanic: 17.08% Asian: 13.22% Black: 2.84%
