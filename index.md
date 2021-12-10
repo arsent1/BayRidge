@@ -46,6 +46,11 @@ As we zoomed into our local neighborhoods, we decided on three major factors tha
 
 <img width="470" alt="Screen Shot 2021-12-10 at 8 56 30 AM" src="https://user-images.githubusercontent.com/93113681/145585319-a1028745-f474-4ce3-99e9-bfb1806d61ef.png">
 
+#### Stats on Bay Ridge
+
+<img width="616" alt="stats" src="https://user-images.githubusercontent.com/93113681/145586542-ca68bb39-9276-4b00-8378-983cd5f007dc.png">
+
+
 #### Interactive Map with Restaurants in Bay Ridge
 
 <dl>
