@@ -15,12 +15,12 @@ Brief Demographic Breakdown:
 
 11220 ZipCode Statistics:
 
--Population: 93,170
--Median Age: 34
--Ethnicity: White 13.86% Hispanic: 41.33% Asian: 41.35% Black: 1.9%
+-Population: 93,170 <br>
+-Median Age: 34 <br>
+-Ethnicity: White 13.86% Hispanic: 41.33% Asian: 41.35% Black: 1.9% <br>
 
 11209 ZipCode Statistics:
 
--Population: 67,782
--Median Age: 41
--Ethnicity: White: 64.33% Hispanic: 17.08% Asian: 13.22% Black: 2.84%
+-Population: 67,782 <br>
+-Median Age: 41 <br>
+-Ethnicity: White: 64.33% Hispanic: 17.08% Asian: 13.22% Black: 2.84% <br>
