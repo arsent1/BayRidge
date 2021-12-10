@@ -53,8 +53,9 @@ As we zoomed into our local neighborhoods, we decided on three major factors tha
 
 #### Interactive Map with Restaurants in Bay Ridge
 
+
 <dl>
-<iframe src="BayRidgecopy.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="file:///Users/arseniy/Desktop/BayRidge%20copy.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
 
