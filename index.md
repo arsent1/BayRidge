@@ -48,6 +48,8 @@ As we zoomed into our local neighborhoods, we decided on three major factors tha
 
 #### Stats on Bay Ridge
 
+Along with statistics on other topics like road size and sidewalk approval in our anlaysis of the Open Restaurants Program. We looked at statistics on alcohol approval rates and looked at whether we could correlate them to anything. Bay Ridge in particular saw an almost 50/50 split 
+
 <img width="616" alt="stats" src="https://user-images.githubusercontent.com/93113681/145586542-ca68bb39-9276-4b00-8378-983cd5f007dc.png">
 
 
@@ -55,7 +57,7 @@ As we zoomed into our local neighborhoods, we decided on three major factors tha
 
 
 <dl>
-<iframe src="file:///Users/arseniy/Desktop/BayRidge%20copy.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="///Users/arseniy/Desktop/BayRidge%20copy.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
 
